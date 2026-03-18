@@ -102,12 +102,6 @@ jupyter lab analysis.ipynb
 
 ---
 
-## 🧪 AI / Tooling Notes
-
-This project was created with assistance from AI tools (Google Gemini) to bootstrap structure and accelerate development.
-
----
-
 ## 📁 Useful Commands
 
 - `npm run dev` — start the dev server
@@ -115,7 +109,3 @@ This project was created with assistance from AI tools (Google Gemini) to bootst
 - `npm run preview` — serve production build locally
 
 ---
-
-## ✅ License
-
-(If you want to add one, add a `LICENSE` file and update this section.)
